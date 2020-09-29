@@ -1,0 +1,8 @@
+Flask==1.1.2
+google-api-python-client==1.12.1
+google-auth==1.21.3
+google-auth-httplib2==0.0.4
+oauth2client
+google-cloud-storage
+Flask-Cors==3.0.9
+python-dateutil==2.8.1
